@@ -10,7 +10,7 @@ The resources for this week will be the [**online course on Supervised Learning*
 
 You do not need to enrol for the course, you can audit all the content for free.
 
-<img src="../misc/coursera_audit.png" width="70%" height="70%"></img>  
+`<img src="../misc/image.png" width="70%" height="70%"></img>`
 *Upon pressing the Enroll for Free button, you will see this popup. Click on the "Audit" hyperlink near the bottom, below the continue button*
 
 ## Assignment
@@ -21,7 +21,7 @@ For this week's assignment, you will build a gradient descent model that predict
 
 Refer to [**this document**](https://docs.google.com/document/d/1PQ15c9MIo9J35Yinvg_a7NDD4UyXBMYALM0Cl7-PLFw/edit?usp=sharing) as a comprehensive resource to streamline and simplify the task at hand.
 
-You will have to submit your code in an ```.ipynb``` notebook via a Google form that we will share soon.
+You will have to submit your code in an ``.ipynb`` notebook via a Google form that we will share soon.
 
 **Deadline: 6 Jan 2024**
 

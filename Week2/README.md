@@ -19,13 +19,13 @@ Learning to implement logistic regression from scratch fosters a deeper understa
 
 For this week's assignment, you will build a gradient descent model that predicts the chance of having Coronary Heart Disease in 10 years on [**this dataset**](https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression).
 
-Refer to [**this document**](https://docs.google.com/document/d/1Ubu08WX3zkUg6Jnzpal39DD7y3ofikX8v_9e9rAxs5k/edit?usp=sharing) as a comprehensive resource to streamline and simplify the task at hand.
+Refer to [**this document**](https://docs.google.com/document/d/1PQ15c9MIo9J35Yinvg_a7NDD4UyXBMYALM0Cl7-PLFw/edit?usp=sharing) as a comprehensive resource to streamline and simplify the task at hand.
 
 You will have to submit your code in an ``.ipynb`` notebook via a Google form that we will share soon.
 
 **Deadline: 6 Jan 2024**
 
-**Submission link:** https://forms.gle/eU8CCm2NdU5D6Y9s6
+**Submission link:** https://forms.gle/UzF3Kw6yU9U6LHkw8
 
 ## Neural Networks
 

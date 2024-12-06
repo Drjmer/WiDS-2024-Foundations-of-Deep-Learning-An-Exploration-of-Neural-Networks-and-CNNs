@@ -28,7 +28,7 @@ It's finally time for you to build your first neural network! We will be develop
 
 You will have to submit your code as a ```.ipynb``` file.
 
-Submission Link: https://forms.gle/TYxkExDhQcsLVHEF9
+Submission Link: https://forms.gle/ZHX7JzR8Gjz6LFHu9
 
 Deadline: 13 Jan 2024
 

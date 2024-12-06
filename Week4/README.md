@@ -20,6 +20,6 @@ Use the fifth and sixth videos of [**this YouTube tutorial**](https://www.youtub
 The dataset for this part is the more challenging [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html).
 Follow [**this**](https://www.youtube.com/watch?v=pDdP0TFzsoQ) YouTube video as a reference for the implementation of the code.
 
-Once again, you will have to submit your code in ```.ipynb``` files via a Google form that will be shared soon.
+Submission Link: https://forms.gle/N21NzfiC3aayW8YcA
 
-
+Deadline: Same as WIDS Deadline

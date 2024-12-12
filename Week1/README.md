@@ -25,8 +25,9 @@ Once you're done with the theory, we recommend that you attempt [**this optional
 
 Instead of building traditional Python scripts, in this project we will be using **Jupyter Notebooks** to write and run your code.
 
-Week1 Assignment Submission link: https://docs.google.com/forms/d/e/1FAIpQLSeZ1VidGwpyABRF3jILmuAvrJA7CUsXWayiN_MYUBq1bVvbBg/viewform?usp=header
 
 Jupyter notebooks allow you to divide your code into multiple cells that you can run individually one-by-one, allowing you to debug your code much more easily. You can go over the first few sections of [**this introductory document**](https://realpython.com/jupyter-notebook-introduction/) for installation and basic functionalities or [**this video**](https://www.youtube.com/watch?v=HW29067qVWk) (only until Notebook creation and code execution)
 
 You can also use notebooks in vscode just by giving extension .ipynb instead of .py
+
+Week1 Assignment Submission link: https://docs.google.com/forms/d/e/1FAIpQLSeZ1VidGwpyABRF3jILmuAvrJA7CUsXWayiN_MYUBq1bVvbBg/viewform?usp=header
